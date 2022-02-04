@@ -1,0 +1,15 @@
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\bin\Debug\Star Shooter.exe.config
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\bin\Debug\Star Shooter.exe
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\bin\Debug\Star Shooter.pdb
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Star Shooter.csprojAssemblyReference.cache
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Star_Shooter.Form1.resources
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Star_Shooter.Properties.Resources.resources
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Star Shooter.csproj.GenerateResource.cache
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Star Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Star Shooter.exe
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Star Shooter.pdb
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hawic\source\repos\Star Shooter\Star Shooter\obj\Debug\Star Shooter.csproj.ResolveComReference.cache
